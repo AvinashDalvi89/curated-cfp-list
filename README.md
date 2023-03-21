@@ -11,3 +11,6 @@ This is list of CFPs which is available across world. We will keep updating this
 | [https://www.papercall.io/conf42-golang-2023](https://www.papercall.io/conf42-golang-2023)                                                                                                                         | 20/3/2023 | Expired | 20/04/2023 | [https://www.conf42.com/golang2023](https://www.conf42.com/golang2023)                                             |
 | [https://docs.google.com/forms/d/e/1FAIpQLSfYctoS0dGsUSkY6tV6n4mzPsFDbdjjE9BDM6twfsdxPtQUtg/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfYctoS0dGsUSkY6tV6n4mzPsFDbdjjE9BDM6twfsdxPtQUtg/viewform)         | 10/4/2023 | Open    | 17/05/2023 | [https://devopsdays.org/events/2022-kyiv-spring/welcome/](https://devopsdays.org/events/2022-kyiv-spring/welcome/) |
 | [https://docs.google.com/forms/d/e/1FAIpQLScK_4aWEcrERtJPZX9kaA9cUlMdFYVp0xX55r8poVCavdTW2Q/formResponse](https://docs.google.com/forms/d/e/1FAIpQLScK_4aWEcrERtJPZX9kaA9cUlMdFYVp0xX55r8poVCavdTW2Q/formResponse) | 25/4/2023 | Open    | 02/06/2023 | [https://www.jsconf.in/](https://www.jsconf.in/)                                                                   |
+
+## Contribution 
+Anyone have latest update can add or delete or update by submitting PR. 
